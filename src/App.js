@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React on AWS!!!!!
+          Learn React on AWS on a branch!
         </a>
       </header>
     </div>
